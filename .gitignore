@@ -1,0 +1,14 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+
+# Pytest cache
+.pytest_cache/
+
+# Environment variables
+.env
+.env.*

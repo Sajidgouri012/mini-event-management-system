@@ -1,0 +1,14 @@
+alembic
+pytest
+pytest-asyncio
+httpx
+fastapi
+uvicorn
+sqlalchemy[asyncio]
+asyncpg
+pydantic
+slowapi
+pytz
+python-dotenv
+pydantic[email]
+aiosqlite
