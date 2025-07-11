@@ -42,6 +42,7 @@ This API allows users to:
 - Create .env File
 - Add variables and values from sample_env
 - Directly want to create database in the tables then run ``` python3 utils/init_db_runner.py ```
+- If you want to create tables from SQL queries then check ```schema.sql``` inside ```migration folder```
 - run  ``` alembic upgrade head ```
 
 ## Install dependencies:
