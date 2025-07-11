@@ -43,7 +43,7 @@ This API allows users to:
 - Add variables and values from sample_env
 - Directly want to create database in the tables then run ``` python3 utils/init_db_runner.py ```
 - If you want to create tables from SQL queries then check ```schema.sql``` inside ```migration folder```
-- run  ``` alembic upgrade head ```
+- if you want to create tables from alembic then run  ``` alembic upgrade head ```
 
 ## Install dependencies:
 - Create virtual environment
